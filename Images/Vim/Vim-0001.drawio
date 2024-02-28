@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-11-18T08:24:32.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="0DnRuyAHKy9vbCSWk1oB" version="21.6.1" type="device">
+  <diagram id="0" name="ページ1">
+    <mxGraphModel dx="954" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Esc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1;fontSize=16;fontFamily=Charter;" parent="11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint x="28" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="インサート&lt;br style=&quot;font-size: 16px;&quot;&gt;モード" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="v, V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=none;fontFamily=Charter;" parent="6" vertex="1" connectable="0">
+          <mxGeometry x="-0.2795" relative="1" as="geometry">
+            <mxPoint x="-13" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value=":" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=none;fontFamily=Charter;" parent="8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2667" y="-2" relative="1" as="geometry">
+            <mxPoint x="-18" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="3" target="2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="i, a, I, A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1;fontSize=16;fontFamily=Charter;" parent="10" vertex="1" connectable="0">
+          <mxGeometry x="0.1833" relative="1" as="geometry">
+            <mxPoint x="-40" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="ノーマル・モード&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;（初期モード）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;" parent="1" vertex="1">
+          <mxGeometry x="200" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Esc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=16;labelBackgroundColor=none;fontFamily=Charter;" parent="9" vertex="1" connectable="0">
+          <mxGeometry x="0.1904" y="-1" relative="1" as="geometry">
+            <mxPoint x="29" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="コマンドライン&lt;br style=&quot;font-size: 16px;&quot;&gt;モード" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="200" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="5" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Esc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1;fontSize=16;fontFamily=Charter;" parent="7" vertex="1" connectable="0">
+          <mxGeometry x="0.0444" relative="1" as="geometry">
+            <mxPoint x="32" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" value="ビジュアル&lt;br style=&quot;font-size: 16px;&quot;&gt;モード" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

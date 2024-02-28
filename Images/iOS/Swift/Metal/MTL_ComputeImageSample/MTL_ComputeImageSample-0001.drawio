@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2023-07-17T10:34:54.576Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="zxfAVJ4lLS8L2PeuZfO7" version="21.1.2" type="device">
+  <diagram id="IPethDhe6ZVQqmIALtQ7" name="ページ1">
+    <mxGraphModel dx="1434" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;fillColor=#999999;strokeColor=none;gradientDirection=north;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="950" y="110" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="12" target="16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="image in Assets" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fontColor=#0000CC;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="MetalKit View" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fontColor=#CC0000;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="950" y="250" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="110" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=none;strokeColor=#CC0000;container=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="110" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#001DBC;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="920" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="460" y="120" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;Compute Shader&lt;/font&gt;" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;arrowWidth=0.56;arrowSize=0.4588235294117647;strokeColor=none;fillColor=#999999;fontColor=#ffffff;gradientColor=#FFFFFF;gradientDirection=west;fontStyle=1;fontSize=16;align=left;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="175" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="10" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
